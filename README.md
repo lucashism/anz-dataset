@@ -5,7 +5,7 @@
 
 ## Business Goal
 * Analyze customers’ spending pattern for 2018’s Seasonal (Winter) Transaction (3 Months). 
-  This is to compare against 2020’s transactional dataset (not released yet) to analyze before & after the pandemic (customers’ spending pattern). 
+* Compare against 2020’s transactional dataset (not released yet) to analyze before & after the pandemic (customers’ spending pattern). 
   <br /> <br />
   
 ## Methods Approached
